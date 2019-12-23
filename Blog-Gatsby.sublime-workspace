@@ -1,0 +1,554 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"team-mem",
+				"team-member-name"
+			],
+			[
+				"medium",
+				"medium-12"
+			],
+			[
+				"mediu",
+				"medium-6"
+			],
+			[
+				"header",
+				"header-inner-wrap"
+			],
+			[
+				"clowns",
+				"clownswithoutborders"
+			],
+			[
+				"advanced_",
+				"advanced_menu_toggle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gatsby-config.js",
+			"settings":
+			{
+				"buffer_size": 1105,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/DESIGN PROJECTS/Collage Creative/gatsby-starter-wordpress"
+	],
+	"file_history":
+	[
+		"/D/Projects/DESIGN PROJECTS/Sara/communityequipd/wp-content/themes/cequipd/functions.php",
+		"/D/Projects/DESIGN PROJECTS/Sara/communityequipd/wp-content/themes/cequipd/template-parts/home-consultants-loop.php",
+		"/D/Projects/Clowns Without Borders NEW 2016-17.sublime-project",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/functions.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/archive-blogs.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/template-parts/home-posts-loop.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/site/primary/_posts-and-pages.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/media/_galleries.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/page-gallery.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/layout/_content-sidebar.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/navigation/_menus.scss",
+		"/D/Projects/DESIGN PROJECTS/Maxwell PR/Basics/wp-content/themes/basics2018/index.php",
+		"/C/Users/susan/AppData/Local/Temp/fz3temp-2/style.css",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/header.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/_settings.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/typography/_typography.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/mixins/_mixins-master.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/single-event.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/template-parts/home-events-loop.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/header-indextemplate.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/elements/_elements.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/forms/_buttons.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/typography/_headings.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/index.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/site/_plugins.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/template-parts/content.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/single.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/footer.php",
+		"/C/Users/susan/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/susan/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/template-parts/content-archive.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/archive.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/site/_header.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/navigation/_links.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/modules/_clearings.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/css/photoswipe.css",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/single-gallery.php",
+		"/D/Projects/DESIGN PROJECTS/The People's Yoga/NEW SITE 2015/yogis/page-study.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/template-parts/content-flexible-content.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/variables-site/_colors.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/page-fullwidth.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/template-parts/content-page.php",
+		"/D/Projects/DESIGN PROJECTS/Sara/The Shop at Westshore/wp-config.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/css/default-skin.css",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/page-events.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/build/css/style.css",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/page-home.php",
+		"/D/Projects/DESIGN PROJECTS/Pizzicato/PIZZICATO/wp-content/themes/pizzicato-mobile/front-page.php",
+		"/D/Projects/DESIGN PROJECTS/Pizzicato/PIZZICATO/wp-content/themes/pizzicato-mobile/index.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/sass/variables-site/_typography.scss",
+		"/D/Projects/DESIGN PROJECTS/Bennett Hartman/wp-content/themes/bhmk-theme/style.css",
+		"/D/Projects/DESIGN PROJECTS/Bennett Hartman/wp-content/themes/bhmk-theme/header.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/searchform.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/js/photoswipe-init.js",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/archive-gallery.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/plugins/cc-gallery/cc-gallery.php",
+		"/D/Projects/DESIGN PROJECTS/Tricia Snell/wp-content/themes/triciasnell2017/header.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/plugins/wp_ics.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/Salute+to+Tchaikovsky-ical-2018-04-07 (2).ics",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/Salute+to+Tchaikovsky-ical-2018-04-07.ics",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/Salute+to+Tchaikovsky-ical-2018-03-22 (1).ics",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/ical (1).ics",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/ical-15.ics",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/ical.ics",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-config.php",
+		"/C/Users/susan/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/D/Projects/DESIGN PROJECTS/Divination.com/NEW SITE 2017/wp-content/themes/df2017/functions.php",
+		"/D/Projects/DESIGN PROJECTS/RESOURCES/Icon Font/cc-icon-font-1/styles.css",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/css/havetop-style.css",
+		"/D/Projects/DESIGN PROJECTS/Carol Beckerman/wp-content/plugins/cc-gallery/cc-gallery.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/page.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/js/app.js",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/page-with-sidebar.php",
+		"/D/Projects/DESIGN PROJECTS/The People's Yoga/NEW SITE 2015/yogis/single-event.php",
+		"/D/Projects/DESIGN PROJECTS/ARCHIVED PROJECTS/Tobey Nelson/wp-content/plugins/cc-gallery/cc-gallery.php",
+		"/D/Projects/DESIGN PROJECTS/ARCHIVED PROJECTS/Tobey Nelson/wp-content/themes/tobeynelson/functions.php",
+		"/D/Projects/DESIGN PROJECTS/ARCHIVED PROJECTS/Tobey Nelson/wp-content/themes/tobeynelson/header.php",
+		"/D/Projects/DESIGN PROJECTS/XERA/wp-content/themes/xera/sass/navigation/_links.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/yelena/style.css",
+		"/C/Users/susan/Music/Music list Susan Feb 2018.txt",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/style.css",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/taxonomy-biome-deer-resistance.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/taxonomy-family.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/taxonomy-genus.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/taxonomy.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content-archive.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content-flexible-content.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content-flexible-contenthomeupper.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content-none.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content-page.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content-photoswipe-html.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content-plant.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content-plantarchive.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content-search.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/template-parts/content.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/404.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/archive-plant.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/archive.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/comments.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/css/style.css",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/footer.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/functions.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/header.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/inc/custom-header.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/inc/customizer.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/inc/extras.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/inc/jetpack.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/inc/template-tags.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/sass/site/primary/_posts-and-pages.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/index.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/readme.txt",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/rtl.css",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/sass/style.scss",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/search.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/searchform.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/sidebar-genuspage.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/sidebar-home.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/sidebar-pages.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/sidebar-plants.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/sidebar.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/single-plant.php",
+		"/D/Projects/DESIGN PROJECTS/Yelena Dudochkin/wp-content/themes/xera/single.php",
+		"/D/Projects/DESIGN PROJECTS/CWB 2017/wp-config.php",
+		"/D/Projects/DESIGN PROJECTS/CWB 2017/wp-content/plugins/cwb-plugin/cwb-plugin.php",
+		"/D/Projects/DESIGN PROJECTS/CWB 2017/wp-content/themes/cwb-usa/js/cwb_map.js",
+		"/D/Projects/DESIGN PROJECTS/CWB 2017/wp-content/themes/cwb-usa/page-all-countries.php",
+		"/D/Projects/DESIGN PROJECTS/CWB 2017/wp-content/themes/cwb-usa/template-parts/shortcode-featured-project.php",
+		"/D/Projects/DESIGN PROJECTS/CWB 2017/wp-content/themes/cwb-usa/template-parts/shortcode-recent-post.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"D:\\Projects\\DESIGN PROJECTS\\Yelena Dudochkin\\wp-content\\themes\\yelena",
+			"<current file>",
+			"D:\\Projects\\DESIGN PROJECTS\\Yelena Dudochkin\\wp-content\\themes\\yelena",
+			"D:\\Projects\\DESIGN PROJECTS\\Yelena Dudochkin\\wp-content\\themes\\xera",
+			"D:\\Projects\\DESIGN PROJECTS\\CWB 2017\\wp-content",
+			"<current file>",
+			"D:\\Projects\\DESIGN PROJECTS\\CWB 2017\\wp-content\\themes\\cwb-usa",
+			"<current file>",
+			"D:\\Projects\\DESIGN PROJECTS\\CWB 2017\\wp-content\\themes\\cwb-usa",
+			"D:\\Projects\\DESIGN PROJECTS\\CWB.NEW - 2016\\wp-content\\themes\\clowns2017",
+			"D:\\Projects\\DESIGN PROJECTS\\Alberta Co-op\\wp-content\\themes\\alberta",
+			"D:\\Projects\\DESIGN PROJECTS\\Collage Creative\\Dairy Hill\\wp-content\\themes\\dairy-hill",
+			"D:\\Projects\\DESIGN PROJECTS\\",
+			"D:\\Projects\\DESIGN PROJECTS\\MRG Foundation\\mrg.dev\\wp-content\\themes\\mrg-theme"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"events",
+			"Blog",
+			"Event",
+			"Events",
+			"start",
+			".event-meta",
+			"loop",
+			".with-hero",
+			".site-content.with-hero",
+			".site-content",
+			"post",
+			"9",
+			"431",
+			"gallery",
+			"padding-top: 120px",
+			"padding-top: 60px",
+			".site-content",
+			"max-width: 1280px",
+			"Default Template",
+			".home.page-template",
+			"max-width: 767px",
+			"max-width: 767px;",
+			"#655555",
+			"medium",
+			".byline",
+			".entry-header",
+			".entry-header, .page-header",
+			".entry-header",
+			"</span>",
+			"<span style=\"font-family: georgia, palatino, serif;\">",
+			".sectionheading",
+			"related_posts_",
+			"event",
+			"related_posts",
+			".site-content",
+			".sectionheading",
+			"http://bennetthartman.com",
+			"plant name",
+			"1280px",
+			"$post",
+			"post",
+			"event",
+			".heroheading",
+			".hero .heroheading",
+			"column",
+			".heroheading",
+			"4",
+			"> a",
+			"member",
+			"format_out",
+			"format_in",
+			"708c2b",
+			".entry-header, .entry-content",
+			".section",
+			".row",
+			"proxima",
+			"Workshop",
+			"workshop",
+			"flex-end",
+			".site-footer",
+			"xera",
+			"xera-",
+			"xera_",
+			"Xera",
+			"peopleServed",
+			"true",
+			"db45284",
+			"projectfeature",
+			"ajax_enqueue_scripts",
+			"clowns",
+			"/home/clowns/",
+			"usr",
+			"http",
+			"clowns",
+			"post",
+			"project",
+			"section",
+			"project_update_excerpt",
+			"project_update_author",
+			"partner",
+			">\n",
+			"post",
+			"posts",
+			"//",
+			"opma.collagecreative.net",
+			".acf-map",
+			"update",
+			"updates",
+			"h1",
+			"header-style",
+			"display: table",
+			".above-footer",
+			"#bf469f",
+			"text_domain",
+			"yearbook",
+			"Yearbook",
+			"Yearbooks",
+			"@package cwb_usa",
+			"cwb-usa_",
+			"kcrist.wpengine.com",
+			"center",
+			"592",
+			"font-family",
+			"384",
+			"Luna",
+			"Luna 2016",
+			"luna",
+			"Collage Creative Gallery 2016",
+			"Collage",
+			"cc-gallery",
+			"cc_gallery_2016_",
+			"@package Collage Creative Gallery 2016",
+			"cc-gallery-2016",
+			"footer",
+			"fff9da",
+			"twentyten",
+			"strong",
+			"logo",
+			"Tribute",
+			"Tributes",
+			"tribute_post_type",
+			"previous",
+			"post_object",
+			"third",
+			"second",
+			"side_menu",
+			"templater",
+			"marcy-tribute"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"yelena",
+			"yelena-",
+			"yelena_",
+			"Yelena 2018",
+			"opmatoday.com",
+			"cwb_plugin",
+			"@package CWB-USA",
+			"cwb_usa_",
+			"Clowns 2017",
+			"clowns2017_",
+			"@package clowns2017",
+			"clowns2017",
+			"alberta",
+			"Alberta Co-op 2016",
+			"Dairy Hill 2016",
+			"dairy_hill_16"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gatsby-config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 61.0
+	},
+	"pinned_build_system": "",
+	"project": "Blog-Gatsby.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Projects\\Divination.sublime-project"
+			],
+			[
+				"floral",
+				"D:\\Projects\\Floral Sunshine.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
