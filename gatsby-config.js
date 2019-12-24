@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/gatsby-plant-collage-deploy',
+  //pathPrefix: '/gatsby-plant-collage-deploy',
 
   siteMetadata: {
     title: 'Plant Collage',
