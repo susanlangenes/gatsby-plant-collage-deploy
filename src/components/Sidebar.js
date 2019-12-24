@@ -1,11 +1,12 @@
-const Sidebar = (props) => (
-	<div style={{
-		border: '2px solid #e6e6e6', 
-		maxWidth: 960,
-		padding: '0.5rem',
-		marginBottom: '25px'
-	}}
-	><strong>{props.title}.</strong> {props.description}</div>
-);  
+import React from 'react'
+
+const Sidebar = () => (
+	<div>
+		<h3>Sidebar</h3>
+	</div>
+	
+)
+
+
 
 export default Sidebar
