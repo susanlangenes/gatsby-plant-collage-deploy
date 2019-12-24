@@ -39,7 +39,7 @@ const Navbar = () => (
           <div className="navbar-end">
             <a
               className="navbar-item"
-              href="https://github.com/GatsbyCentral/gatsby-starter-wordpress"
+              href="https://github.com/susanlangenes/gatsby-plant-collage-deploy"
               target="_blank"
               rel="noopener noreferrer"
             >

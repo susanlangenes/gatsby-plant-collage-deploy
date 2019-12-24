@@ -1,6 +1,8 @@
 module.exports = {
+  pathPrefix: '/gatsby-plant-collage-deploy',
+
   siteMetadata: {
-    title: 'Gatsby + WordPress Starter',
+    title: 'Plant Collage',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

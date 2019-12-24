@@ -7,3 +7,5 @@ const Sidebar = (props) => (
 	}}
 	><strong>{props.title}.</strong> {props.description}</div>
 );  
+
+export default Sidebar
