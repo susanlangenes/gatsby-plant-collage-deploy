@@ -1,7 +1,5 @@
 module.exports = {
-  //pathPrefix: '/gatsby-plant-collage-deploy',
-  // add this to line 43 of package.json 
-  //    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  pathPrefix: '/gatsby-plant-collage-deploy',
 
   siteMetadata: {
     title: 'Plant Collage',
